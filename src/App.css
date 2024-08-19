@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+input {
+  padding: 10px;
+  margin: 10px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px;
+  margin: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+#para1 {
+  color: red;
+  margin-top: 30px;
+  background-color: rgb(97, 255, 255);
+  border-radius: 10px;
+  text-align: center;
+  padding: 20px;
+  width: 300px;
+  align-items: center;
+  font-weight: 50px;
+  margin-left: 400px;
+}
+h2 {
+  margin: 10px 0;
+}
+
+p {
+  margin: 5px 0;
+}
