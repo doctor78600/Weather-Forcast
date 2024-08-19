@@ -1,0 +1,11 @@
+#input {
+    border-radius: 10px;
+    border-color: aquamarine;
+    color: rgb(0, 72, 255);
+}
+#btn {
+    border-radius:10px ;
+    border-color: aquamarine;
+    background-color: cadetblue;
+    color: aliceblue;
+}

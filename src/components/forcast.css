@@ -1,0 +1,19 @@
+#heading {
+    color: blue;
+    margin-top: 20px;
+}
+#item {
+    color: blue;
+    margin-bottom: 20px
+}
+#para {
+    background-color: rgb(251, 0, 255);
+    display:inline;
+    padding: 10px;
+    border-radius: 10px;
+    color: aliceblue;
+    margin: 10px;
+}
+.cont {
+    margin: 10px;
+}

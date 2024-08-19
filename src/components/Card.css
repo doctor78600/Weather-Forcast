@@ -1,0 +1,51 @@
+.card {
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 10px;
+    padding: 20px;
+    text-align: left;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: overlay;
+
+  }
+  
+  .card.clear {
+    background-color: rgba(255, 229, 128, 0.7);
+  }
+  
+  .card.cloudy {
+    background-color: rgba(211, 211, 211, 0.7);
+  }
+  
+  .card.rain {
+    background-color: rgba(164, 198, 229, 0.7);
+  }
+  
+  .card.thunderstorm {
+    background-color: rgba(127, 127, 127, 0.7);
+  }
+  
+  .card.snow {
+    background-color: rgba(255, 255, 255, 0.7);
+  }
+  
+  .card.fog {
+    background-color: rgba(176, 176, 176, 0.7);
+  }
+  
+  .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  p {
+    margin: 5px 0;
+  }
+  
